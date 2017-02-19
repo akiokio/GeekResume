@@ -7,17 +7,46 @@
   "workExperience": [
     {
       "title": "Dragon Ball Z Trunks Cosplay",
-      "gliphIco": "dash",
+      "gliphIco": "book",
       "description": "Just know that there are those of us who care about what you do with your future. \nBatman may have made the front page but Bruce Wayne got pushed to page eight.",
       "fromDate": "10/2012",
       "toDate": "10/2016"
     },
     {
       "title": "BatCon Organizer",
-      "gliphIco": "dash",
+      "gliphIco": "book",
       "description": "Breathe in your fears. Face them. To conquer fear, you must become fear. You must bask in the fear of other men. And men fear most what they cannot see. You have to become a terrible thought. A wraith. You have to become an idea! Feel terror cloud your senses. Feel its power to distort. To control. And know that this power can be yours. Embrace your worst fear. Become one with the darkness.",
       "fromDate": "10/2016",
       "toDate": "~"
+    },
+    {
+      "title": "Gotham Defender",
+      "description": "How can you move faster than possible, fight longer than possible, without the most powerful impulse of the spirit? The fear of death.",
+      "fromDate": "02/2013",
+      "toDate": "12/2016"
+    },
+    {
+      "title": "Youtuber",
+      "gliphIco": "video-camera",
+      "description": "Let me get this straight. You think that your client, one of the wealthiest, most powerful men in the world is secretly a vigilante who spends his nights beating criminals to a pulp with his bare hands and your plan is to blackmail this person? Good luck."
+    }
+  ],
+  "timeline": [
+    {
+      "title": "Joined Geeks Anonymous 2015-09-01",
+      "color": "blue"
+    },
+    {
+      "title": "First cosplay 2012-01-01",
+      "color": "green"
+    },
+    {
+      "title": "Addicted to comic books 2011-03-10",
+      "color": "red"
+    },
+    {
+      "title": "Fist contact 2010-09-01",
+      "color": "blue"
     }
   ]
 }
