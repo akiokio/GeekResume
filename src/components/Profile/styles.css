@@ -1,0 +1,38 @@
+.profile-card,
+.tag-list {
+  margin: 15px;
+}
+
+.ant-tag {
+  margin-bottom: 8px;
+}
+
+.header {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #f5f5f5;
+  background: #fff;
+  text-align: center;
+  z-index: 2;
+  justify-content: space-around !important;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: auto;
+  height: 150px;
+  margin: 15px 0;
+}
+
+.content {
+  margin: 15px 0;
+}
+
+.header h2,
+.content h3 {
+  margin: 0;
+}
+
+.section-title {
+  margin: 15px 0;
+  display: flex;
+}

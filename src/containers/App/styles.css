@@ -1,0 +1,33 @@
+@import '~antd/dist/antd.css';
+
+.all-center {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.horizontal-center {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.vertical-center {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.display-linebreak {
+  white-space: pre-line;
+}
+
+#root,
+.App {
+  height: 100%;
+}
+
+.App {
+  background: #fafafa;
+}

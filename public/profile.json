@@ -1,0 +1,23 @@
+{
+  "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Batman-BenAffleck.jpg",
+  "fullName": "John Afflek",
+  "headline": "As Gotham's favored son you will be ideally placed to strike at the heart of criminality.",
+  "description": "Every year, I took a holiday. I went to Florence, this cafe on the banks of the Arno. Every fine evening, I would sit there and order a Fernet Branca. I had this fantasy, that I would look across the tables and I would see you there with a wife maybe a couple of kids. You wouldn't say anything to me, nor me to you. But we would both know that you've made it, that you were happy.",
+  "tags": ["Night Knight", "Foodie", "gamer", "youtuber"],
+  "workExperience": [
+    {
+      "title": "Dragon Ball Z Trunks Cosplay",
+      "gliphIco": "dash",
+      "description": "Just know that there are those of us who care about what you do with your future. \nBatman may have made the front page but Bruce Wayne got pushed to page eight.",
+      "fromDate": "10/2012",
+      "toDate": "10/2016"
+    },
+    {
+      "title": "BatCon Organizer",
+      "gliphIco": "dash",
+      "description": "Breathe in your fears. Face them. To conquer fear, you must become fear. You must bask in the fear of other men. And men fear most what they cannot see. You have to become a terrible thought. A wraith. You have to become an idea! Feel terror cloud your senses. Feel its power to distort. To control. And know that this power can be yours. Embrace your worst fear. Become one with the darkness.",
+      "fromDate": "10/2016",
+      "toDate": "~"
+    }
+  ]
+}
