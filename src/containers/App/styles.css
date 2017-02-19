@@ -31,3 +31,7 @@
 .App {
   background: #fafafa;
 }
+
+.ant-card {
+  font-size: 14px;
+}

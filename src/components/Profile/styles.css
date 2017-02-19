@@ -36,3 +36,12 @@
   margin: 15px 0;
   display: flex;
 }
+
+.description {
+  border-bottom: 1px solid #ececec;
+  padding-bottom: 10px;
+}
+
+.exp-row {
+  border-bottom: 1px solid #ececec;
+}
