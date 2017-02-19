@@ -18,7 +18,7 @@ class App extends Component {
 
   getInitialState() {
     const _this = this;
-    this.serverRequest = axios.get('/profile.json')
+    this.serverRequest = axios.get('profile.json')
     .then(function (response) {
       _this.setState({ isLoading: false, profile: response.data });
     })
