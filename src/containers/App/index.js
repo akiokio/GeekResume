@@ -4,6 +4,7 @@ import { Layout, Spin } from 'antd';
 const { Content } = Layout;
 
 import Profile from '../../components/Profile';
+import GeekFooter from '../../components/GeekFooter';
 import './styles.css';
 
 class App extends Component {
@@ -40,7 +41,7 @@ class App extends Component {
       <Layout className="App horizontal-center">
         { this.state.isLoading
         ? <Spin className="all-center" size="large" />
-        : <Content><Profile profile={this.state.profile} /></Content>
+        : <Content><Profile profile={this.state.profile} /><GeekFooter /></Content>
         }
       </Layout>
     );
